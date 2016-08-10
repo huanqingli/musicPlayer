@@ -194,14 +194,22 @@
       <option name="presentableId" value="Default" />
       <updated>1470546557060</updated>
       <workItem from="1470546558423" duration="13790000" />
+<<<<<<< HEAD
       <workItem from="1470651670964" duration="17106000" />
       <workItem from="1470841903964" duration="22000" />
       <workItem from="1470841930886" duration="77000" />
+=======
+      <workItem from="1470651670964" duration="16991000" />
+>>>>>>> parent of 3ac433a... mimi
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="30995000" />
+=======
+    <option name="totallyTimeSpent" value="30781000" />
+>>>>>>> parent of 3ac433a... mimi
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="0" width="1332" height="896" extended-state="0" />
