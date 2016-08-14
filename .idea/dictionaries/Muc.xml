@@ -2,6 +2,7 @@
   <dictionary name="Muc">
     <words>
       <w>mousedown</w>
+      <w>onmousemove</w>
     </words>
   </dictionary>
 </component>
